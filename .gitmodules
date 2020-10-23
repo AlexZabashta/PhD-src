@@ -1,0 +1,3 @@
+[submodule "Meta-Feature-Extractor"]
+	path = Meta-Feature-Extractor
+	url = https://github.com/AlexZabashta/Meta-Feature-Extractor.git
