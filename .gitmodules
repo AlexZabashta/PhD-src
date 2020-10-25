@@ -1,3 +1,7 @@
 [submodule "Meta-Feature-Extractor"]
 	path = Meta-Feature-Extractor
 	url = https://github.com/AlexZabashta/Meta-Feature-Extractor.git
+[submodule "MetaLearning-GAN"]
+	path = MetaLearning-GAN
+	url = https://github.com/IlyaHalsky/MetaLearning-GAN.git
+	branch = hyper_cube_glm
