@@ -5,3 +5,6 @@
 	path = MetaLearning-GAN
 	url = https://github.com/IlyaHalsky/MetaLearning-GAN.git
 	branch = hyper_cube_glm
+[submodule "FSSARecSys"]
+	path = FSSARecSys
+	url = https://github.com/IFMO-ML/FSSARecSys.git
